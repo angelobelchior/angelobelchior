@@ -9,7 +9,7 @@
 - 📫 Você pode me encontrar em:
   - [https://youtube.com/user/angelobelchior](https://youtube.com/user/angelobelchior)
   - [https://twitter.com/angelobelchior](https://twitter.com/angelobelchior)
-  - [https://mkn.dev/angelobelchior/](https://mkn.dev/angelobelchior/)
+  - [https://mkn.dev/angelobelchior](https://mkn.dev/angelobelchior)
 - 💬 Pergunte-me sobre Xamarin, Azure, Serviços Cognitivos, Blazor, ML.net, .Net em geral, Heavy Metal, MPB, Histórias Aleatórias da Cultura Brasileira.
 - ⚡ Fatos inúteis sobre mim: Toco guitarra desde os 10 anos de idade, já tive banda, era goleiro, já criei codornas, colecionei pedais de guitarra, tampas de garrafa e pedras, e hoje eu faço Hambúrguer e pimenta caseira. Meu passatempo predileto é estudar curiosidades inúteis sobre qualquer coisa que não faça sentido.
 - ⚡ Fatos núteis sobre mim: 😜.
