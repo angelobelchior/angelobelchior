@@ -14,6 +14,15 @@
 - ⚡ Fatos inúteis sobre mim: Toco guitarra desde os 10 anos de idade, já tive banda, era goleiro, já criei codornas, colecionei pedais de guitarra, tampas de garrafa e pedras, e hoje eu faço Hambúrguer e pimenta caseira. Meu passatempo predileto é estudar curiosidades inúteis sobre qualquer coisa que não faça sentido.
 - ⚡ Fatos núteis sobre mim: 😜.
 
+<div>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=angelobelchior&show_icons=true&count_private=true" />
+  </div>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelobelchior&layout=compact&count_private=true" />
+  </div>
+</div>
+
 <!--
 
 - 🔭 I’m currently working on ...
