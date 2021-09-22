@@ -4,7 +4,7 @@
 ### Olá 👋 Meu nome é Angelo Belchior!
 
 - 😄 Sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5001635?fullName=Angelo%20Luis%20%20) em duas categorias: AI, Developer Technologies.
-- 🔭 Atualmente atuo como Tech Lead na ESX.
+- 🔭 Atualmente atuo como Engineering Manager na XP Inc.
 - 👯 Compartilho conteúdos sobre Xamarin, Azure, Serviços Cognitivos e Desenvolvimento, ML.net e .Net em geral.
 - 📫 Você pode me encontrar em:
   - [https://youtube.com/user/angelobelchior](https://youtube.com/user/angelobelchior)
