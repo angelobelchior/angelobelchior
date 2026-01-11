@@ -13,11 +13,6 @@
 - 💬 Pergunte-me sobre **Xamarin**, **Azure**, **Serviços Cognitivos**, **Blazor**, **ML.net**, **.Net** em geral, **Heavy Metal**, **MPB**, **Histórias Aleatórias da Cultura Brasileira**.
 - ⚡ Fatos inúteis sobre mim: Toco guitarra desde os 10 anos de idade, já tive banda, era goleiro, já criei codornas, colecionei pedais de guitarra, tampas de garrafa e pedras, e hoje eu faço Hambúrguer e pimenta caseira. Meu passatempo predileto é estudar curiosidades inúteis sobre qualquer coisa que não faça sentido.
 - ⚡ Fatos úteis sobre mim: 😜.
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=angelobelchior&show_icons=true&count_private=true" />
-</div>
-
 <!--
 
 - 🔭 I’m currently working on ...
