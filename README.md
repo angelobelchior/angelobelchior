@@ -4,7 +4,7 @@
 ### Olá 👋 Meu nome é Angelo Belchior!
 
 - 😄 Sou [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5001635?fullName=Angelo%20Luis%20%20) em **Developer Technologies**.
-- 🔭 Atualmente atuo como **Staff Engineer na PicPay**.
+- 🔭 Atualmente atuo como **Principal Engineer na PicPay**.
 - 👯 Compartilho conteúdos sobre **dotnet**.
 - 📫 Você pode me encontrar em:
   - [https://youtube.com/user/angelobelchior](https://youtube.com/user/angelobelchior)
