@@ -7,8 +7,8 @@
 - 🔭 Atualmente atuo como **Principal Engineer na PicPay**.
 - 👯 Compartilho conteúdos sobre **dotnet**.
 - 📫 Você pode me encontrar em:
+  - [https://angelobelchior.com.br](https://angelobelchior.com.br)
   - [https://youtube.com/user/angelobelchior](https://youtube.com/user/angelobelchior)
-  - [https://bsky.app/profile/angelobelchior.bsky.social](https://bsky.app/profile/angelobelchior.bsky.social)
   - [https://dev.to/angelobelchior](https://dev.to/angelobelchior)
 - 💬 Pergunte-me sobre qualquer assunto relacionado a **dotnet**.
 <!--
